@@ -23,3 +23,7 @@ const profile = {
   hobbies: ["Programming", "Get out with my friends", "Learning new concepts"]
 }
 ```
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
