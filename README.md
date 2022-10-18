@@ -26,3 +26,7 @@ const profile = {
   hobbies: ["Programming", "Study"]
 }
 ```
+
+Some stats that you may might not know about my Github Contributions.
+[![GitHub Streak](https://streak-stats.demolab.com?user=kissinger156&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
