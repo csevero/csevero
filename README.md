@@ -3,7 +3,7 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carlossevero.com.br/)](https://carlossevero.com.br/)
 [![Email: Carlos Severo](https://img.shields.io/badge/-severo.e.carlos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:severo.e.carlos@gmail.com)](mailto:severo.e.carlos@gmail.com)
 
-Hello, I'm Carlos, I'm a Junior Developer with focus in the development of Web Applications using ReactJS or NextJS, building Back-end Applications using Nodejs, like APIs, Serverless Functions and using Twilio Services to do several things, from trigger bulk messages to construct customizations or make improves to Twilio Flex Contact Center.
+Hello, I'm Carlos, I'm a Developer with focus in the development of Web Applications using ReactJS or NextJS, building Back-end Applications using Nodejs, like Rest APIs, Serverless Functions, etc. I have experience with the Twilio Services to do several things, from trigger bulk messages to construct customizations or make improves to Twilio Flex Contact Center.
 
 Know me below:
 ```javascript
@@ -19,7 +19,7 @@ const profile = {
       js: ["NodeJS"]
     ],
     services: [
-      twilio: ["Frontline", "Flex", "Serverless Functions", "Taskrouter", "Studio", "Verify"]
+      twilio: ["Frontline", "Flex", "Serverless", "Taskrouter", "Studio", "Verify", "Conversations", "Programmable Chat"]
     ],
     databases: ["Mongodb", "Mysql"]
   ],
@@ -28,5 +28,5 @@ const profile = {
 ```
 
 Some stats that you may might not know about my Github Contributions.
-[![GitHub Streak](https://streak-stats.demolab.com?user=kissinger156&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=csevero&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
