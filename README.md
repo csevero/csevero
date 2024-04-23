@@ -22,6 +22,7 @@ const profile = {
       twilio: ["Frontline", "Flex", "Serverless", "Taskrouter", "Studio", "Verify", "Conversations", "Programmable Chat"]
     ],
     databases: ["Mongodb", "Mysql"]
+    clouds: ["AWS", "GCP", "DO"]
   ],
   hobbies: ["Programming", "Study"]
 }
