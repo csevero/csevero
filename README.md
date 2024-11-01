@@ -3,7 +3,11 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carlossevero.com.br/)](https://carlossevero.com.br/)
 [![Email: Carlos Severo](https://img.shields.io/badge/-severo.e.carlos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:severo.e.carlos@gmail.com)](mailto:severo.e.carlos@gmail.com)
 
-Hello, I'm Carlos, I'm a Developer with focus in the development of Web Applications using ReactJS or NextJS, building Back-end Applications using Nodejs, like Rest APIs, Serverless Functions, etc. I have experience with the Twilio Services to do several things, from trigger bulk messages to construct customizations or make improves to Twilio Flex Contact Center.
+# Hello, I'm Carlos 👋
+
+I'm a passionate Developer focused on creating high-performance Web Applications and scalable Backend Solutions. My experience spans building modern front-end applications with **ReactJS** and **NextJS** and developing robust backend systems using **NodeJS** and **NestJS**. I have a solid background in working with cloud platforms like **AWS**, **Google Cloud Platform (GCP)**, and **Digital Ocean** to deploy, manage, and scale applications efficiently.
+
+In addition, I specialize in **Twilio services**, where I've built solutions for automated messaging, customer notifications, and custom workflows within **Twilio Flex** Contact Center. My work with Twilio includes creating serverless functions, setting up complex routing in **TaskRouter**, managing real-time communication with **Conversations** and **Programmable Chat**, and using **Frontline** and **Verify** to enable secure and personalized user interactions. My goal is to enhance communication experiences, improve customer support processes, and deliver seamless, scalable solutions.
 
 Know me below:
 ```javascript
@@ -13,15 +17,15 @@ const profile = {
   technologies: [
     front-end: [
       js: ["ReactJS", "NextJS"],
-      css: ["CSS3", "Styled Components"]
+      css: ["CSS3", "Styled Components", "Tailwind", "Twilio Paste"]
     ],
     back-end: [
-      js: ["NodeJS"]
+      js: ["NodeJS", "NestJS"]
     ],
     services: [
-      twilio: ["Frontline", "Flex", "Serverless", "Taskrouter", "Studio", "Verify", "Conversations", "Programmable Chat"]
+      twilio: ["Frontline", "Flex", "Serverless", "Taskrouter", "Studio", "Verify", "Conversations", "Programmable Chat", "Voice Intelligence", "AI Assistants"]
     ],
-    databases: ["Mongodb", "Mysql"]
+    databases: ["Mongodb", "Mysql", "Postgres"]
     clouds: ["AWS", "GCP", "DO"]
   ],
   hobbies: ["Programming", "Study"]
